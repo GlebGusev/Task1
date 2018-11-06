@@ -1,0 +1,11 @@
+2018-11-05 17:08:15.9389|ERROR|Task1_ConsoleApp.File|Failed to write value '123' in file 'task1'.
+2018-11-05 17:10:51.5464|ERROR|Task1_ConsoleApp.File|Failed to write value '111' in file 'task1'.
+2018-11-05 17:10:53.3690|ERROR|Task1_ConsoleApp.File|Failed to write value '222' in file 'taskN1'.
+2018-11-05 17:48:57.6085|ERROR|Task1_ConsoleApp.File|Failed to write value '22222' in file 'taskN1'.
+2018-11-05 17:50:35.8570|ERROR|Task1_ConsoleApp.File|Failed to write value '1' in file 'task1'.
+2018-11-05 17:50:37.0318|ERROR|Task1_ConsoleApp.File|Failed to write value '2' in file 'taskN1'.
+2018-11-05 17:50:38.0156|ERROR|Task1_ConsoleApp.File|Failed to write value '3' in file 'task_1'.
+2018-11-05 18:15:24.7850|ERROR|Task1_ConsoleApp.File|Failed to write value '11111' in file 'task1'.
+2018-11-05 18:18:10.6489|ERROR|Task1_ConsoleApp.File|Failed to write value 'one' in file 'task1'.
+2018-11-05 18:57:17.0627|ERROR|Task1_ConsoleApp.File|Failed to write value 'two2' in file 'taskN1'.
+2018-11-05 18:57:17.1141|ERROR|Task1_ConsoleApp.File|Failed to write value 'three3' in file 'task_1'.

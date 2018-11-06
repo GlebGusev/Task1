@@ -1,0 +1,12 @@
+C:\Users\GlebGusev\Desktop\.NET training\Task1_ConsoleApp\Task1_ConsoleApp\obj\Debug\Task1_ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\GlebGusev\Desktop\.NET training\Task1_ConsoleApp\Task1_ConsoleApp\obj\Debug\Task1_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\GlebGusev\Desktop\.NET training\Task1_ConsoleApp\Task1_ConsoleApp\bin\Debug\Task1_ConsoleApp.exe.config
+C:\Users\GlebGusev\Desktop\.NET training\Task1_ConsoleApp\Task1_ConsoleApp\bin\Debug\Task1_ConsoleApp.exe
+C:\Users\GlebGusev\Desktop\.NET training\Task1_ConsoleApp\Task1_ConsoleApp\bin\Debug\Task1_ConsoleApp.pdb
+C:\Users\GlebGusev\Desktop\.NET training\Task1_ConsoleApp\Task1_ConsoleApp\bin\Debug\NLog.dll
+C:\Users\GlebGusev\Desktop\.NET training\Task1_ConsoleApp\Task1_ConsoleApp\bin\Debug\Spiffy.Monitoring.dll
+C:\Users\GlebGusev\Desktop\.NET training\Task1_ConsoleApp\Task1_ConsoleApp\bin\Debug\Spiffy.Monitoring.NLog.dll
+C:\Users\GlebGusev\Desktop\.NET training\Task1_ConsoleApp\Task1_ConsoleApp\bin\Debug\NLog.xml
+C:\Users\GlebGusev\Desktop\.NET training\Task1_ConsoleApp\Task1_ConsoleApp\obj\Debug\Task1_ConsoleApp.exe
+C:\Users\GlebGusev\Desktop\.NET training\Task1_ConsoleApp\Task1_ConsoleApp\obj\Debug\Task1_ConsoleApp.pdb
+C:\Users\GlebGusev\Desktop\.NET training\Task1_ConsoleApp\Task1_ConsoleApp\bin\Debug\NLog.config
